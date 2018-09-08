@@ -31,5 +31,5 @@ Edit the watchdog.cfg file
 
 Use the provided launcher to run the watchdog. It must be runned with root permission.
 
-"watchdog_launcher.sh -d" will launch the script in deamon mode.
+"watchdog_launcher.sh -d" will launch the script in deamon mode.  
 "watchdog_launcher.sh -C" will launch the script with in console mode. It could be useful for test or debugging.
